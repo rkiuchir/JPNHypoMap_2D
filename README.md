@@ -25,4 +25,5 @@ Time lapsing 2D map.
 See the temporal changes of the earthquake location and so on.
 
 
-https://github.com/rkiuchir/JPNHypoMap_2D/issues/1#issuecomment-493741946
+### Example
+Statistic map
