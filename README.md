@@ -27,3 +27,4 @@ See the temporal changes of the earthquake location and so on.
 
 ### Example
 Statistic map
+(https://user-images.githubusercontent.com/35716467/57980377-e728b100-7a65-11e9-9f4d-e25d76ec62d3.png)
