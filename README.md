@@ -23,3 +23,6 @@ I would recommend to change the transparency to detect clustered seismicity.
 ### 3. Time lapse 2-D map
 Time lapsing 2D map.
 See the temporal changes of the earthquake location and so on.
+
+
+https://github.com/rkiuchir/JPNHypoMap_2D/issues/1#issuecomment-493741946
