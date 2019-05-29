@@ -29,5 +29,9 @@ See the temporal changes of the earthquake location and so on.
 1. Statistic map
 ![EQDistribution_2D](https://user-images.githubusercontent.com/35716467/57980377-e728b100-7a65-11e9-9f4d-e25d76ec62d3.png)
 
-3. Time lapse 2-D map
+2. Interactive map
+![JPNSeisMap2D_Interact](https://user-images.githubusercontent.com/35716467/58525934-74a79600-8208-11e9-96a9-613aec8c0b8b.gif)
+
+
+3. Time lapsing map
 ![EQDistribution_2D](https://user-images.githubusercontent.com/35716467/58362103-5ec76780-7ece-11e9-8432-3b948dcc7bbb.gif)
