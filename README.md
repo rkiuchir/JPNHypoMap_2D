@@ -26,12 +26,15 @@ See the temporal changes of the earthquake location and so on.
 
 
 ### Example
-1. Statistic map
+#### 1. Statistic map
+
 ![EQDistribution_2D](https://user-images.githubusercontent.com/35716467/57980377-e728b100-7a65-11e9-9f4d-e25d76ec62d3.png)
 
-2. Interactive map
-![JPNSeisMap2D_Interact](https://user-images.githubusercontent.com/35716467/58525934-74a79600-8208-11e9-96a9-613aec8c0b8b.gif)
+#### 2. Interactive map
+
+![JPNSeisMap2D_Interact](https://user-images.githubusercontent.com/35716467/58526139-fd263680-8208-11e9-9287-802733831853.gif)
 
 
-3. Time lapsing map
+#### 3. Time lapsing map
+
 ![EQDistribution_2D](https://user-images.githubusercontent.com/35716467/58362103-5ec76780-7ece-11e9-8432-3b948dcc7bbb.gif)
