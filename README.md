@@ -13,9 +13,7 @@ These event catalog are compiled by Japan Meteorological Agency (JMA).
 Simple statistic map
 
 ### 2. Interactive 2-D map with sliders
-Interactive plots with sliders
-We can select the parameter range (e.g. Date, Depth, Magnitude, Plot size, Plot transparency...) with each slider.
-I would recommend to change the transparency to detect clustered seismicity.
+Interactive plots with sliders. We can select the parameter range (e.g. Date, Depth, Magnitude, Plot size, Plot transparency...) with each slider.
 
 > Note that this interactive map works only inside of the jupyter notebook.
 
